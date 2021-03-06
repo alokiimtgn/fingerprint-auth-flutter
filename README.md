@@ -19,8 +19,7 @@ dependencies:
  cupertino_icons: ^0.1.2
  local_auth: ^0.4.0+1
 ```
-NOTE: I have tried local_auth version 0.5.2+3 but it is not working but version 0.4.0+1 working for me.
-	And run flutter packages get
+ 
 
 3. Add a permission for android in android/app/src/main/AndroidManifest.xml
 ```
